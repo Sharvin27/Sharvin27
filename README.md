@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI and Augmented Reality<br>👯 I’m looking to collaborate on projects of Djangon, LLM, AR and Flutter<br>📫 How to reach me gavad.sharvin@gmail.com<br>🌱 I’m currently learning Upcoming technologies like Generative AI<br>⚡ Fun fact : I love playing all kinds of Sports
+🔭 I’m currently working on AI and Augmented Reality<br>👯 I’m looking to collaborate on projects of Django, LLM, AR and Flutter<br>📫 How to reach me gavad.sharvin@gmail.com<br>🌱 I’m currently learning Upcoming technologies like Generative AI<br>⚡ Fun fact : I love playing all kinds of Sports
 
 
 ## 🌐 Socials:
